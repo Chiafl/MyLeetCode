@@ -1,5 +1,3 @@
-# Python solution recursive but not timed out in Leetcode
-
 class Solution:
     def rob(self, nums: List[int]) -> int:
         if not nums:
